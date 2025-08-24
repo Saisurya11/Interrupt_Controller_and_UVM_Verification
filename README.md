@@ -1,4 +1,4 @@
-# Interrupt_Controller_and_UVM_Verification
+# Verification of Parametrizable Interrupt Controller 
 
 ## Overview
 This project presents a **parametrizable UVM-based verification environment** for a **priority Interrupt Controller**. Interrupts are ubiquitous in real-time systems, and mismanagement can lead to missed deadlines, system instability, or complete failure. This VIP ensures robust verification by simulating realistic interrupt scenarios, testing priority handling, and validating the design under corner cases.
